@@ -5,7 +5,7 @@
 	<rateLvo ops="10" />
 	<expiredCtot time="20" />
 	<ReaMsg minutes="5" />
-	<Taxizones url="https://github.com/Frenkii/cdmdata/blob/c06c967b1c4728077ab5e50e33b017148c3fcb50/taxizones.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/Frenkii/cdmdata/main/taxizones.txt" />
 	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
