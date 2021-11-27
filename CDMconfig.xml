@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<CDM>
+	<ctot option="cid" />
+	<rate ops="40" />
+	<rateLvo ops="10" />
+	<expiredCtot time="20" />
+	<ReaMsg minutes="5" />
+	<Taxizones url="" />
+	<DefaultTaxiTime minutes="15" />
+	<RefreshTime seconds="20" />
+	<Debug mode="false" />
+</CDM>
