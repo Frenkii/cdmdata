@@ -6,7 +6,7 @@
 	<expiredCtot time="20" />
 	<ReaMsg minutes="5" />
 	<Taxizones url="https://raw.githubusercontent.com/Frenkii/cdmdata/main/taxizones.txt" />
-	<DefaultTaxiTime minutes="15" />
+	<DefaultTaxiTime minutes="10" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
 </CDM>
