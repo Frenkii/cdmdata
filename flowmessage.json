@@ -7,6 +7,14 @@
         "VALIDDATE": "15/07",
         "VALIDTIME": "0800-1900",
         "MESSAGE": "Flow Test"
+       },
+       {
+        "TIME": 3,
+        "DEPA": "ALL",
+        "DEST": "EPWA",
+        "VALIDDATE": "07/15",
+        "VALIDTIME": "0800-1900",
+        "MESSAGE": "EPWA Test"
        }
     ]
 }
