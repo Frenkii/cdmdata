@@ -1,0 +1,12 @@
+{
+    "MDI": [
+      {
+        "TIME": 3,
+        "DEPA": "ALL",
+        "DEST": "LEMD",
+        "VALIDDATE": "15/07",
+        "VALIDTIME": "0800-1900",
+        "MESSAGE": "Flow Test"
+       }
+    ]
+}
