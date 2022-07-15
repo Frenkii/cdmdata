@@ -11,10 +11,10 @@
        {
         "TIME": 3,
         "DEPA": "ALL",
-        "DEST": "EPWA",
+        "DEST": "EBBR",
         "VALIDDATE": "15/07",
         "VALIDTIME": "0400-1900",
-        "MESSAGE": "EPWA Test"
+        "MESSAGE": "EBBR Test 3 min"
        }
     ]
 }
