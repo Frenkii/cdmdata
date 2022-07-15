@@ -12,7 +12,7 @@
         "TIME": 3,
         "DEPA": "ALL",
         "DEST": "EPWA",
-        "VALIDDATE": "07/15",
+        "VALIDDATE": "15/07",
         "VALIDTIME": "0400-1900",
         "MESSAGE": "EPWA Test"
        }
